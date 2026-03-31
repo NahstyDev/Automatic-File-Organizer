@@ -19,7 +19,7 @@ Python (Tkinter)
 ## 🚀 Quick Start (No Coding Needed)
 
 1. Make sure Python is installed
-2. Double-click `run_organizer.bat`
+2. Double-click `run.bat`
 3. Use the app
 
 ## Alternative Run Method
