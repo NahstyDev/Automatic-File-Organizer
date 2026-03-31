@@ -13,6 +13,17 @@ https://youtu.be/r-tVDkjT5kI
 ## Use Case
 Perfect for cleaning up Downloads folders or automating file management.
 
+## 💼 Custom Versions Available
+
+I can customize this tool based on your workflow:
+
+- Custom file categories
+- Automatic sorting rules
+- Business-specific organization
+- UI modifications
+
+If you're interested, contact me and I’ll build it for you.
+
 ## Built With
 Python (Tkinter)
 
