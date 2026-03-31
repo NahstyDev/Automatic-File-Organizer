@@ -8,7 +8,7 @@ A simple desktop app that automatically organizes messy folders into clean categ
 - Supports images, videos, documents, and more
 
 ## Demo
-https://youtu.be/r-tVDkjT5kI
+https://youtu.be/r-tVDkjT5kI?si=kT6-xbrzGt8Lnj7b
 
 ## Use Case
 Perfect for cleaning up Downloads folders or automating file management.
