@@ -23,6 +23,7 @@ I can customize this tool based on your workflow:
 - UI modifications
 
 If you're interested, contact me and I’ll build it for you.
+I can even make it fully automated so you never have to organize files again!
 
 ## Built With
 Python (Tkinter)
